@@ -9,6 +9,7 @@ I saw some renders online with that simple low poly design, and also in the asse
 The main character in this scene is an astronaut camping on this island in the middle of the ocean.
 ## List of each object in your scene and how it was acquired (necessary for assigning points)
 ### From assets store:
+ - Astronaut (main character)
  - Water texture (for lake and ocean)
  - Rocks without moss/grass (12 unique models)
  - Rocks with grass/moss (4 unique models)
@@ -17,6 +18,7 @@ The main character in this scene is an astronaut camping on this island in the m
  - Tree stumps (3 unique models)
  - Mushrooms (7 unique models)
  - Tent
+ - Rolled up tent
  - Fishing pole
  - Spools of yarn
  - Campfire
@@ -33,5 +35,12 @@ The main character in this scene is an astronaut camping on this island in the m
  - Apple
  - Trees (8 unique models)
  - Lilypads
+ - Flask
+ - Metal canister
+ - Bushes (2 unique models)
+ - Knife
+ - Hammer
+ - Pile of colored cloth
+ - Wooden planks
 ### Not from assets store:
  - Cylinder island (terrain is from assets store, but I made it circular and added the border in Blender)
