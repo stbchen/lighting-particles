@@ -9,8 +9,7 @@ public class MoveCamera : MonoBehaviour
     public float rotationAngle = 90f;
     void Update()
     {
-        transform.RotateAround(pivotObject.transform.position, Vector3.up, 
-rotationAngle*Time.deltaTime);
+        transform.RotateAround(pivotObject.transform.position, Vector3.up, rotationAngle*Time.deltaTime);
         // transform.position += new Vector3(0.0f, 0.0f, 4.0f);
         // Rotate the camera every frame so it keeps looking at the target
         transform.LookAt(target);
