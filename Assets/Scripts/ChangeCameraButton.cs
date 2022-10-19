@@ -29,7 +29,7 @@ public class ChangeCameraButton : MonoBehaviour
         EnableCamera(click);
         click++;
         // reset counter so it is not out of bounds (only have 4 cameras)
-        if(click > 3){
+        if(click > 4){
             click = 0;
         }
     }

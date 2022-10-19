@@ -3,12 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Rocks
+  - Trees
+  - Ocean
+  - Grass
+  - Camping stuff
+  - Flowers/Mushrooms
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Main Character
   - Water
   - UI
   - 
