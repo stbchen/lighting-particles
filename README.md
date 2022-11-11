@@ -1,6 +1,6 @@
 # Homework 2 - Lighting & Particle System
 ## Link to video: <INSERT LINK HERE>
-##Lights used:
+## Lights used:
  - Directional light for sun
  - Point light for fire
  - 2D Texture emitter for fire
