@@ -3,6 +3,9 @@
 ## Lights used:
  - Directional light for sun
  - Point light for fire
+ - Spotlight for light on campsite
+ - 3D mesh emitter particle system for fish
+## Particle System
  - 2D Texture emitter for fire
 ## What is your scene?
 I made a circle island in the ocean with a lake in the middle, and an astronaut as the "main character" camping there.
