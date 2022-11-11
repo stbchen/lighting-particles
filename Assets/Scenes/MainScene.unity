@@ -7754,7 +7754,7 @@ MonoBehaviour:
   time: 0
   fullDayLength: 15
   startTime: 0.4
-  noon: {x: 0, y: 0, z: 0}
+  noon: {x: 90, y: 0, z: 0}
   sun: {fileID: 705507994}
   sunColor:
     serializedVersion: 2
